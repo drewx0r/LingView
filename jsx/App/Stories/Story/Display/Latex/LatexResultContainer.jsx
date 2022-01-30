@@ -30,7 +30,7 @@ function convertToLatex(material, sentenceUrl) {
   const glossLine = getMorphologicalAnalysisLine(material["gloss"]);
   const translationLine = getSentenceTranslationLine(material["sentenceTranslation"]);
   // Replace _ with \_ so that it is recognized as underscore in LaTeX
-  const storyTitle = material["title"].replace(/_/g, "\\_") + "\n"; 
+  const storyTitle = material["title"].replace(/_/g, "\\_"); 
   const citation = `\\href{${sentenceUrl}}{(${storyTitle})} \n`;
   const toDisplay = begin + morphLines + glossLine + translationLine + citation + end;
   return toDisplay; 
