@@ -71,9 +71,9 @@ function getMorphologicalAnalysisLine(gloss) {
       for (const [id, glossItem] of Object.entries(glossItems)) {
         // Only the suffices and clitics need \textsc
         if (isSuffix(glossItem)) {
-          glossForThisWord.push("{" + textscStart + glossItem.toLowerCase() + textscClose + "}");
+          glossForThisWord.push("\{" + textscStart + glossItem.toLowerCase() + textscClose + "\}");
         } else {
-          glossForThisWord.push("{" + glossItem + "}"); 
+          glossForThisWord.push("\{" + glossItem + "\}"); 
         } 
       }
       // Reason for using the replace with "_" is that some glossed word is two words in
