@@ -77,7 +77,8 @@ function concatMorphs(morphsThisTier, wordStartSlot, wordEndSlot) {
       if (morphsThisTier[i]["tier type"] === 'gls') {
         if (morphsThisTier[i]["part of speech"] === 'prefix') {
           nextValue = nextValue + '-';
-        } else if (morphsThisTier[i]["part of speech"] === 'suffix') {
+          //the addition of 'auxiliary verb' is for Tunica only.
+        } else if (morphsThisTier[i]["part of speech"] === 'suffix' || morphsThisTier[i]["part of speech"] === 'auxiliary verb') {
           nextValue = '-' + nextValue;
         }
       }
