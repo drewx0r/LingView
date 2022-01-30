@@ -81,10 +81,11 @@ function concatMorphs(morphsThisTier, wordStartSlot, wordEndSlot) {
           nextValue = '-' + nextValue;
         }
       }
-      if (morphsThisTier[i]["part of speech"] === 'prefix') {
-	      maybeAddCompoundSeparator = false;
-	      }
     }
+    
+    if (morphsThisTier[i]["part of speech"] === 'prefix') {
+	    maybeAddCompoundSeparator = false;
+	}
     
     // insert compound-word separator if needed
     if (maybeAddCompoundSeparator && !isSeparator(nextValue.substring(0, 1))) {
