@@ -94,10 +94,10 @@ function decodeLang(lang) {
 // results via checkboxes) will work incorrectly. 
 function getTierName(lang, type) {
   // English UI text:
-  // return decodeLang(lang) + " " + decodeType(type);
+  return decodeLang(lang) + " " + decodeType(type);
 
   // Spanish UI text:
-  return decodeType(type) + " en " + decodeLang(lang);
+  // return decodeType(type) + " en " + decodeLang(lang);
 }
 
 module.exports = {
