@@ -12,13 +12,13 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">nisara</item>
                     <item type="cf" lang="tun">nisara</item>
-                    <item type="gls" lang="en">young</item>
-                    <item type="msa" lang="en">adj</item>
+                    <item type="gls" lang="en">young person</item>
+                    <item type="msa" lang="en">n</item>
                   </morph>
                   <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">-hchi</item>
@@ -71,7 +71,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">charina</item>
@@ -256,7 +256,7 @@
                     <item type="cf" lang="tun">uhk-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">3MS.alienable</item>
-                    <item type="msa" lang="en">n:Any</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">ri</item>
@@ -346,7 +346,7 @@
                     <item type="cf" lang="tun">uhk-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">3MS.alienable</item>
-                    <item type="msa" lang="en">n:Any</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">ri</item>
@@ -520,7 +520,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">komeli</item>
@@ -664,7 +664,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">charina</item>
@@ -687,7 +687,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">wishi</item>
@@ -711,7 +711,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">nini</item>
@@ -915,7 +915,7 @@
                     <item type="cf" lang="tun">uhk-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">3MS.alienable</item>
-                    <item type="msa" lang="en">n:Any</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">yana</item>
@@ -959,7 +959,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">wishi</item>
@@ -1022,7 +1022,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">aparu</item>
@@ -1091,7 +1091,7 @@
                     <item type="cf" lang="tun">uhk-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">3MS.alienable</item>
-                    <item type="msa" lang="en">n:Any</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">ni</item>
@@ -1179,7 +1179,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">aparu</item>
@@ -1322,7 +1322,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">onimahoni</item>
@@ -1408,7 +1408,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">nisara</item>
@@ -1430,7 +1430,7 @@
                     <item type="cf" lang="tun">ti-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">3FS.inalienable, "her"</item>
-                    <item type="msa" lang="en">n:Any</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">*ahaya</item>
@@ -1480,7 +1480,7 @@
                     <item type="cf" lang="tun">ti-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">3FS.inalienable, "her"</item>
-                    <item type="msa" lang="en">n:Any</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="bound stem" guid="d7f713e7-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">*ki</item>
@@ -1541,7 +1541,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">yanɛra</item>
@@ -1617,7 +1617,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">nahta</item>
@@ -1638,7 +1638,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">nahta</item>
@@ -1767,7 +1767,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">charina</item>
@@ -1824,7 +1824,7 @@
                     <item type="cf" lang="tun">ta-</item>
                     <item type="hn" lang="tun">1</item>
                     <item type="gls" lang="en">the</item>
-                    <item type="msa" lang="en">Definite article</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
                   </morph>
                   <morph type="root" guid="d7f713e5-e8cf-11d3-9764-00c04f186933">
                     <item type="txt" lang="tun">wishi</item>
