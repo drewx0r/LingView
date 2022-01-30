@@ -90,10 +90,10 @@ function concatMorphs(morphsThisTier, wordStartSlot, wordEndSlot) {
     }
     
     // insert compound-word separator if needed
-    if (maybeAddCompoundSeparator && !isSeparator(nextValue.substring(0, 1))) {
+    if (!preprefix && maybeAddCompoundSeparator && !isSeparator(nextValue.substring(0, 1))) {
       wordMorphsText += '+';
     }
-    if (!preprefix && !isSeparator(nextValue.substring(nextValue.length - 1))) {
+    if (!isSeparator(nextValue.substring(nextValue.length - 1))) {
       maybeAddCompoundSeparator = true;
     }
 
