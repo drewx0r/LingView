@@ -63,6 +63,8 @@ function getMorphologicalAnalysisLine(gloss) {
   // The \textsc tag is added for each suffix/clitic translation.
   const textscStart = "\\textsc{";
   const textscClose = "}";
+  const openbracket = "{";
+  const closebracket = "}";
 
   let glossList = []; // This has the morphological analysis line.
   for (const [id, entry] of Object.entries(gloss)) {
@@ -71,9 +73,9 @@ function getMorphologicalAnalysisLine(gloss) {
       for (const [id, glossItem] of Object.entries(glossItems)) {
         // Only the suffices and clitics need \textsc
         if (isSuffix(glossItem)) {
-          glossForThisWord.push("\{" + textscStart + glossItem.toLowerCase() + textscClose + "\}");
+          glossForThisWord.push(openbracket + textscStart + glossItem.toLowerCase() + textscClose + closebracket);
         } else {
-          glossForThisWord.push("\{" + glossItem + "\}"); 
+          glossForThisWord.push(openbracket + glossItem + closebracket); 
         } 
       }
       // Reason for using the replace with "_" is that some glossed word is two words in
