@@ -87,7 +87,7 @@ function concatMorphs(morphsThisTier, wordStartSlot, wordEndSlot) {
     if (maybeAddCompoundSeparator && !isSeparator(nextValue.substring(0, 1))) {
       wordMorphsText += '+';
     }
-    if (!isSeparator(nextValue.substring(-1))) {
+    if (!isSeparator(nextValue.substring(nextValue.length - 1))) {
       maybeAddCompoundSeparator = true;
     }
 
