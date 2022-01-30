@@ -63,8 +63,6 @@ function getMorphologicalAnalysisLine(gloss) {
   // The \textsc tag is added for each suffix/clitic translation.
   const textscStart = "\\textsc{";
   const textscClose = "}";
-  const openbracket = "{";
-  const closebracket = "}";
 
   let glossList = []; // This has the morphological analysis line.
   for (const [id, entry] of Object.entries(gloss)) {
@@ -73,16 +71,16 @@ function getMorphologicalAnalysisLine(gloss) {
       for (const [id, glossItem] of Object.entries(glossItems)) {
         // Only the suffices and clitics need \textsc
         if (isSuffix(glossItem)) {
-          glossForThisWord.push(openbracket + textscStart + glossItem.toLowerCase() + textscClose + closebracket);
+          glossForThisWord.push(textscStart + glossItem.toLowerCase() + textscClose);
         } else {
-          glossForThisWord.push(openbracket + glossItem + closebracket); 
+          glossForThisWord.push(glossItem); 
         } 
       }
       // Reason for using the replace with "_" is that some glossed word is two words in
       // the translation, but two words with a space in between will be recognized as two
       // separate glossed word by the LaTeX package, so adding the underscore makes sure 
       // that a phrase made up with multiple words can still be grouped together after being rendered in LaTeX. 
-//      glossList.push(glossForThisWord.join("").replace(" ", "\\_"));
+      glossList.push(glossForThisWord.join("").replace(" ", "\\_"));
     }
   }
   glossList.push("\\\\ \n  ");
