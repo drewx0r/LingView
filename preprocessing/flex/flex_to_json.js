@@ -77,7 +77,6 @@ function concatMorphs(morphsThisTier, wordStartSlot, wordEndSlot) {
       if (morphsThisTier[i]["tier type"] === 'gls') {
         if (morphsThisTier[i]["part of speech"] === 'prefix') {
           nextValue = nextValue + '-';
-          maybeAddCompoundSeparator = false;
         } else if (morphsThisTier[i]["part of speech"] === 'suffix') {
           nextValue = '-' + nextValue;
         }
