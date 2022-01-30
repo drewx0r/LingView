@@ -61,8 +61,8 @@ function decodeLang(lang) {
       return "defaultLang";
 
     // for Spanish UI text:
-    case "en":
-      return "inglés";
+//    case "en":
+//      return "inglés";
 
     default: // fall through
   }
