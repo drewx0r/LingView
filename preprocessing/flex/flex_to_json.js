@@ -68,6 +68,7 @@ function updateIndex(metadata, indexFilePath, storyID) {
 function concatMorphs(morphsThisTier, wordStartSlot, wordEndSlot) {
   let wordMorphsText = '';
   let maybeAddCompoundSeparator = false; // never add a separator before the first word
+  let preprefix = false; // was the last entity a prefix? if so, don't add a +
   for (let i = wordStartSlot; i < wordEndSlot; i++) {
     let nextValue = '***';
     if (morphsThisTier[i] != null && morphsThisTier[i]['value'] != null) {
@@ -82,12 +83,14 @@ function concatMorphs(morphsThisTier, wordStartSlot, wordEndSlot) {
         }
       }
       if (morphsThisTier[i]["part of speech"] === 'prefix') {
-	      maybeAddCompoundSeparator = false;
-	      }
+	      preprefix = true;
+	      } else {
+		      preprefix = false;
+		  }
     }
     
     // insert compound-word separator if needed
-    if (maybeAddCompoundSeparator && !isSeparator(nextValue.substring(0, 1))) {
+    if (!preprefix && maybeAddCompoundSeparator && !isSeparator(nextValue.substring(0, 1))) {
       wordMorphsText += '+';
     }
     if (!isSeparator(nextValue.substring(nextValue.length - 1))) {
