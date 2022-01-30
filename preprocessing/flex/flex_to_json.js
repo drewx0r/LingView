@@ -89,7 +89,9 @@ function concatMorphs(morphsThisTier, wordStartSlot, wordEndSlot) {
     }
     if (!isSeparator(nextValue.substring(nextValue.length - 1))) {
       maybeAddCompoundSeparator = true;
-    }
+    } else {
+	    maybeAddCompoundSeparator = false;
+	}
 
     wordMorphsText += nextValue;
   }
