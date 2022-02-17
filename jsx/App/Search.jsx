@@ -85,6 +85,7 @@ export class Search extends React.Component {
                 searchResults.push(component);
             }
         }
+        this.setState({ displayedSearchResultsIndex: 0 });
         this.setState({ "searchResults": searchResults });
     }
 
