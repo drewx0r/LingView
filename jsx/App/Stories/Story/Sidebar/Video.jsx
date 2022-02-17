@@ -54,7 +54,7 @@ export class Video extends React.Component {
 		$("#leftPanel").css("height", bodyHeight);
 		$("#centerPanel").css("height", bodyHeight);
 		$("#centerPanel").css("margin-left", "300px");
-		$("#centerPanel").css("width", "calc(100% - 300px)");
+		$("#centerPanel").css("width", "calc(100% - 340px)");
 
 		// Deactivate video:
 		$("#video").css("display", "none");
