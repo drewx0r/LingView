@@ -107,9 +107,16 @@ export default class LatexResultWindow extends React.Component {
           const glossValue = glossEntry["value"] || "Undefined";
           // First, add a space in front of = and - so that we can split on space later and preserve both = and -
           const currentMorpheme = morphemeValue.replace("=", " =").replace("-", " -");
-          const currentGloss = glossValue.replace("=", " =").replace("-", " -");;      
+          
+          // replace multiword glosses with underscores so that they don't split on spaces, then split clitics
+          // and affixes on space. Note that this marks everything as a suffix, which messes up the suffix and
+          // clitic detection in isSuffix, and treats the stem as a suffix in any word with a prefix.
+          const currentGloss = glossValue.replaceAll(" ", "_").replace("=", " =").replace("-", " -");
           const currentMorphemeSplit = currentMorpheme.split(" ");
-          const currentGlossSplit = currentGloss.split(" ");
+          // enclose in brackets any set of words that is separated by an underscore (as was done above)
+          const bracketRegex = /(?<=(\s|-|=|\+|^))([^\- ^\=^\ ^\+]*_[^\-^\=^\ ^\+]*)(?=(\s|-|=|\+|$))/g;
+          const currentGlossBracketed = currentGloss.replaceAll(bracketRegex, '{$2}');
+          const currentGlossSplit = currentGlossBracketed.split(" ");
 
           for (const e of currentMorphemeSplit) {
             if (e !== "") {
@@ -118,7 +125,8 @@ export default class LatexResultWindow extends React.Component {
           }
           for (const e of currentGlossSplit) {
             if (e !== "") {
-              gloss.push(e);
+              // once the morphemes are split on spaces, and flip underscores back to spaces
+              gloss.push(e.replaceAll("_", " "));
             }
           }
           morphemeListIndex += 1;
