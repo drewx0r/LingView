@@ -499,5 +499,53 @@
         "subdivided": false
       }
     }
+  },
+  "5f949ed7-f41d-44bb-af72-fad664765288": {
+    "timed": false,
+    "story ID": "5f949ed7-f41d-44bb-af72-fad664765288",
+    "title": {
+      "en": "04. The Thunder Myth, First Telling",
+      "_default": "04. The Thunder Myth, First Telling"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "tun"
+    ],
+    "date_created": "",
+    "date_uploaded": "2/22/2022",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "Sesostrie Youchigant",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "thundermyth1.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "Luhchi Yoroni words": {
+        "subdivided": true
+      },
+      "Luhchi Yoroni morpheme (as in the text)": {
+        "subdivided": true
+      },
+      "Luhchi Yoroni morpheme (citation form)": {
+        "subdivided": true
+      },
+      "English morpheme gloss": {
+        "subdivided": true
+      },
+      "English free": {
+        "subdivided": false
+      },
+      "Luhchi Yoroni free": {
+        "subdivided": false
+      }
+    }
   }
 }
