@@ -251,9 +251,9 @@ module.exports.improveFLExIndexData = function improveFLExIndexData(path, storyI
     let defaultTitle = getTitleFromFilename(getFilenameFromPath(path));
     // Uncomment the three lines below to use a particular language title 
     // (in this case "es", Spanish) as the main title for newly added documents. 
-    // if (titles["es"] != null && titles["es"] != "") {
-      // defaultTitle = titles["es"];
-    // }
+     if (titles["en"] != null && titles["en"] != "") {
+       defaultTitle = titles["en"];
+     }
   
     // below is the starter data:
     metadata = {
