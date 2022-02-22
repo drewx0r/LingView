@@ -1,0 +1,1517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document version="2">
+  <interlinear-text guid="037fd2b6-53e7-4cfe-abda-a2575d7f9346">
+    <item type="title" lang="en">02. The Emergence of the Avoyelles</item>
+    <paragraphs>
+      <paragraph guid="22cf4116-8a9a-483d-a49a-268fe6188505">
+        <phrases>
+          <phrase guid="e1a7c93d-71bb-49c5-aadd-49cbb12b1505">
+            <item type="segnum" lang="en">1.1</item>
+            <words>
+              <word guid="3ab9bff8-7a17-4a3f-a30c-ee6d76cd2188">
+                <item type="txt" lang="tun">Tashihkaltiniku</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ta-</item>
+                    <item type="cf" lang="tun">ta-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">shihkaltini</item>
+                    <item type="cf" lang="tun">shihkaltini</item>
+                    <item type="gls" lang="en">Avoyelles</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ku</item>
+                    <item type="cf" lang="tun">-ku</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">3ms</item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Avoyelles</item>
+                <item type="pos" lang="en">nprop</item>
+              </word>
+              <word guid="74a1d141-e4ad-4601-b9e8-e838c760bbec">
+                <item type="txt" lang="tun">tahali</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ta-</item>
+                    <item type="cf" lang="tun">ta-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hali</item>
+                    <item type="cf" lang="tun">hali</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">ground; earth; dirt</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the land</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="bd9e25fd-6af2-4589-af1e-ee0d7eddba3d">
+                <item type="txt" lang="tun">kichu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">kichu</item>
+                    <item type="cf" lang="tun">kichu</item>
+                    <item type="gls" lang="en">inside of</item>
+                    <item type="msa" lang="en">post</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">inside of</item>
+              </word>
+              <word guid="34e948c1-14e4-44d6-92e6-e87a70a290ad">
+                <item type="txt" lang="tun">hopi'uhkɛni</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ho-</item>
+                    <item type="cf" lang="tun">ho-</item>
+                    <item type="gls" lang="en">out, out of</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">pi</item>
+                    <item type="cf" lang="tun">pi</item>
+                    <item type="gls" lang="en">to emerge, get out</item>
+                    <item type="msa" lang="en">v.I.tr</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-uhki</item>
+                    <item type="cf" lang="tun">-uhki</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3MS.completive.uhki</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">The Avoyelles emerged from the ground, it is said.</item>
+          </phrase>
+          <phrase guid="19599e29-a42b-453e-8329-2ddc71737303">
+            <item type="segnum" lang="en">1.2</item>
+            <words>
+              <word guid="c9ea4193-922a-4f49-bace-bad566ee0036">
+                <item type="txt" lang="tun">Kata</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">kata</item>
+                    <item type="cf" lang="tun">kata</item>
+                    <item type="gls" lang="en">where</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">where</item>
+              </word>
+              <word guid="e5fb2e0c-bc6f-40e0-acc3-0d539481cbe0">
+                <item type="txt" lang="tun">tanahtahch</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ta-</item>
+                    <item type="cf" lang="tun">ta-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">nahta</item>
+                    <item type="cf" lang="tun">nahta</item>
+                    <item type="gls" lang="en">slope</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">fem. 3rd sing animate noun. </item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">slope</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="95982c2c-6f5c-41c9-81dd-c80994b90664">
+                <item type="txt" lang="tun">hariyahch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hariya</item>
+                    <item type="cf" lang="tun">hariya</item>
+                    <item type="gls" lang="en">high</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">fem. 3rd sing animate noun. </item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">high (of grass)</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="bc116102-f5f9-440b-8c93-942f923b9d69">
+                <item type="txt" lang="tun">arahch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ara</item>
+                    <item type="cf" lang="tun">ara</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">she lays, lies, is lying</item>
+                    <item type="msa" lang="en">v.chameleon</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">while</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">she lays, lies, is lying</item>
+                <item type="pos" lang="en">v.chameleon</item>
+              </word>
+              <word guid="4ccfe5d6-0335-43b1-b6f6-e64f1ebc22e6">
+                <item type="txt" lang="tun">hopina'arahch</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ho-</item>
+                    <item type="cf" lang="tun">ho-</item>
+                    <item type="gls" lang="en">out, out of</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">pi</item>
+                    <item type="cf" lang="tun">pi</item>
+                    <item type="gls" lang="en">to emerge, get out</item>
+                    <item type="msa" lang="en">v.I.tr</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-na'ara</item>
+                    <item type="cf" lang="tun">-na'ara</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3HP.durative.ura</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">while</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c647f2a7-f948-4b24-86ef-a3c9e068e41b">
+                <item type="txt" lang="tun">tawakaku</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">tawaka</item>
+                    <item type="cf" lang="tun">tawaka</item>
+                    <item type="gls" lang="en">commander</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ku</item>
+                    <item type="cf" lang="tun">-ku</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">3ms</item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">commander</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="d1c654a8-d5ea-428b-bd7f-efdc31bcbf95">
+                <item type="txt" lang="tun">yanakal'urani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">yana</item>
+                    <item type="cf" lang="tun">yana</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">to speak; to talk</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">kali</item>
+                    <item type="cf" lang="tun">kali</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">to stand</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-ura</item>
+                    <item type="cf" lang="tun">-ura</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3MS.durative.ura</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">They were coming out (from the place) where (there) was a high hill and (their) commander was standing and speaking, it is said.</item>
+          </phrase>
+          <phrase guid="bc07a407-e242-4cd6-b007-cb66a53a1026">
+            <item type="segnum" lang="en">1.3</item>
+            <words>
+              <word guid="d762b21e-d3a8-4d3c-a647-d29fa43629dd">
+                <item type="txt" lang="tun">Hinahkuhch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hinahkuhch</item>
+                    <item type="cf" lang="tun">hinahkuhch</item>
+                    <item type="gls" lang="en">now</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">now (conj.)</item>
+              </word>
+              <word guid="2846a21d-8a6d-4a5b-864c-27c3f0505cea">
+                <item type="txt" lang="tun">uhkonisɛma</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">uhk-</item>
+                    <item type="cf" lang="tun">uhk-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">3MS.alienable</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">oni</item>
+                    <item type="cf" lang="tun">oni</item>
+                    <item type="gls" lang="en">human being</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-sɛma</item>
+                    <item type="cf" lang="tun">-sɛma</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">MP GNA</item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="486b11c2-fd60-4fab-b6e9-ab225183d6b9">
+                <item type="txt" lang="tun">hopina'arani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hopi</item>
+                    <item type="cf" lang="tun">hopi</item>
+                    <item type="gls" lang="en">to come out</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-na'ara</item>
+                    <item type="cf" lang="tun">-na'ara</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3HP.durative.ura</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c75a6dfb-4b2e-4343-bce6-995f62d5ddce">
+                <item type="txt" lang="tun">kata</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">kata</item>
+                    <item type="cf" lang="tun">kata</item>
+                    <item type="gls" lang="en">where</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">where</item>
+              </word>
+              <word guid="44445b82-fecc-41a0-ad59-8807bba6125a">
+                <item type="txt" lang="tun">hɔhkahelu</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hɔhka</item>
+                    <item type="cf" lang="tun">hɔhka</item>
+                    <item type="gls" lang="en">hole</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">helu</item>
+                    <item type="cf" lang="tun">helu</item>
+                    <item type="gls" lang="en">to hollow out</item>
+                    <item type="msa" lang="en">v.II.tr</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">hole</item>
+              </word>
+              <word guid="f6b52b45-7201-445f-a833-f1e05ec4d779">
+                <item type="txt" lang="tun">ɛpaya'arahch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ɛpa</item>
+                    <item type="cf" lang="tun">ɛpa</item>
+                    <item type="gls" lang="en">to open</item>
+                    <item type="msa" lang="en">v.I</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ya</item>
+                    <item type="cf" lang="tun">ya</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">to become (of a certain quality)</item>
+                    <item type="msa" lang="en">v.T.intr</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-ara</item>
+                    <item type="cf" lang="tun">-ara</item>
+                    <item type="hn" lang="tun">3</item>
+                    <item type="gls" lang="en">3FS.durative.ura</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">while</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to open</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Now his people were coming out (of a place), it is said, where a hole had come to be open.</item>
+          </phrase>
+          <phrase guid="c420d7d1-0afe-4439-abf5-bc7f91284f30">
+            <item type="segnum" lang="en">1.4</item>
+            <words>
+              <word guid="ad944d70-2021-4b9e-9ecd-1e49bc7a7c0d">
+                <item type="txt" lang="tun">Hinyatihch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hinyatihch</item>
+                    <item type="cf" lang="tun">hinyatihch</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+              </word>
+              <word guid="f384e33b-a35d-413e-b678-eda1d96d7993">
+                <item type="txt" lang="tun">tawakaku</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">tawaka</item>
+                    <item type="cf" lang="tun">tawaka</item>
+                    <item type="gls" lang="en">commander</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ku</item>
+                    <item type="cf" lang="tun">-ku</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">3ms</item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">commander</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="e74a06d9-6bfc-479f-9e76-d42aab196622">
+                <item type="txt" lang="tun">kal'uhkɛni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">kali</item>
+                    <item type="cf" lang="tun">kali</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">to stand</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-uhki</item>
+                    <item type="cf" lang="tun">-uhki</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3MS.completive.uhki</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Now the commander was standing, it is said.</item>
+          </phrase>
+          <phrase guid="46006738-ad76-41b7-b472-86c297fdc942">
+            <item type="segnum" lang="en">1.5</item>
+            <words>
+              <word guid="eb2062fa-6752-452e-95cd-f96fd218ab66">
+                <item type="txt" lang="tun">Yanalepihk'utani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">yanalepi</item>
+                    <item type="cf" lang="tun">yanalepi</item>
+                    <item type="gls" lang="en">to speak</item>
+                    <item type="msa" lang="en">v.II.intr</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hk</item>
+                    <item type="cf" lang="tun">-hk</item>
+                    <item type="gls" lang="en">habitual marker</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-uta</item>
+                    <item type="cf" lang="tun">-uta</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">Class II 3MS</item>
+                    <item type="msa" lang="en">v.II:Subject</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to speak, to speak to</item>
+                <item type="pos" lang="en">v.II.tr</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">He made a speech, it is said.</item>
+          </phrase>
+          <phrase guid="e0d47f6d-e68c-4de5-b899-210a93dc4872">
+            <item type="segnum" lang="en">1.6</item>
+            <words>
+              <word>
+                <item type="punct" lang="en">“</item>
+              </word>
+              <word guid="7e405ba5-0910-43e8-a784-3a473c946648">
+                <item type="txt" lang="tun">Urun'ɛhɛtan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">uru</item>
+                    <item type="cf" lang="tun">uru</item>
+                    <item type="gls" lang="en">to shout</item>
+                    <item type="msa" lang="en">v.II.intr</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-n</item>
+                    <item type="cf" lang="tun">-n</item>
+                    <item type="hn" lang="tun">3</item>
+                    <item type="gls" lang="en">Class II verb marker</item>
+                    <item type="msa" lang="en">v.I&gt;v.II</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-aha</item>
+                    <item type="cf" lang="tun">-aha</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">negative postfix</item>
+                    <item type="msa" lang="en">Inflects any category</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-tan</item>
+                    <item type="cf" lang="tun">-tan</item>
+                    <item type="gls" lang="en">imperative postfix</item>
+                    <item type="msa" lang="en">v:(Imperative)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to shout</item>
+                <item type="pos" lang="en">v.II</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">,”</item>
+              </word>
+              <word guid="958c6a6b-85c6-4ce7-9da7-0ba0e6d00e26">
+                <item type="txt" lang="tun">nikɔni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ni</item>
+                    <item type="cf" lang="tun">ni</item>
+                    <item type="gls" lang="en">to say</item>
+                    <item type="msa" lang="en">v.I</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ku</item>
+                    <item type="cf" lang="tun">-ku</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3ms.HAB</item>
+                    <item type="msa" lang="en">v.I:Subject</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">he said</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">“Do not shout!” he said, it is said.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="b3fd6ac3-8296-44a8-9b76-d5b6d2aa18e2">
+        <phrases>
+          <phrase guid="89db5410-fbfb-4298-bd23-7042f4647aba">
+            <item type="segnum" lang="en">2.1</item>
+            <words>
+              <word guid="6d121c32-ef08-4736-9fb6-7ae38f182e96">
+                <item type="txt" lang="tun">Hinahkuhch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hinahkuhch</item>
+                    <item type="cf" lang="tun">hinahkuhch</item>
+                    <item type="gls" lang="en">now</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">now (conj.)</item>
+              </word>
+              <word guid="2846a21d-8a6d-4a5b-864c-27c3f0505cea">
+                <item type="txt" lang="tun">uhkonisɛma</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">uhk-</item>
+                    <item type="cf" lang="tun">uhk-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">3MS.alienable</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">oni</item>
+                    <item type="cf" lang="tun">oni</item>
+                    <item type="gls" lang="en">human being</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-sɛma</item>
+                    <item type="cf" lang="tun">-sɛma</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">MP GNA</item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="f0da1fc7-c951-4342-9f7a-6c518f601286">
+                <item type="txt" lang="tun">hopina'arahch</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ho-</item>
+                    <item type="cf" lang="tun">ho-</item>
+                    <item type="gls" lang="en">out, out of</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">pi</item>
+                    <item type="cf" lang="tun">pi</item>
+                    <item type="gls" lang="en">to emerge, get out</item>
+                    <item type="msa" lang="en">v.I.tr</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-na'ara</item>
+                    <item type="cf" lang="tun">-na'ara</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3HP.durative.ura</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">while</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="64e40950-f6d1-4eb9-8845-f98bc23c8158">
+                <item type="txt" lang="tun">hishtahahki</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hishtahahki</item>
+                    <item type="cf" lang="tun">hishtahahki</item>
+                    <item type="gls" lang="en">still</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">still, yet</item>
+              </word>
+              <word guid="8b858c48-96e5-4660-9d56-a89dc7f83582">
+                <item type="txt" lang="tun">sahku</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">sahku</item>
+                    <item type="cf" lang="tun">sahku</item>
+                    <item type="gls" lang="en">one</item>
+                    <item type="msa" lang="en">num</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">one</item>
+                <item type="pos" lang="en">num</item>
+              </word>
+              <word guid="d403725d-a4f0-4b19-bafe-1cb49df05b5d">
+                <item type="txt" lang="tun">hopiwihch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hopi</item>
+                    <item type="cf" lang="tun">hopi</item>
+                    <item type="gls" lang="en">to come out</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-wi</item>
+                    <item type="cf" lang="tun">-wi</item>
+                    <item type="gls" lang="en">3MS.completive</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">while</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="d9e0dbdf-b81e-44df-a606-427e5e5f20bf">
+                <item type="txt" lang="tun">tahal'ukini</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ta-</item>
+                    <item type="cf" lang="tun">ta-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hal'ukini</item>
+                    <item type="cf" lang="tun">hal'ukini</item>
+                    <item type="gls" lang="en">town, village</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">the world</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="4bcf3701-9266-4e60-9680-c5518265cb3c">
+                <item type="txt" lang="tun">tashle</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">tashle</item>
+                    <item type="cf" lang="tun">tashle</item>
+                    <item type="gls" lang="en">beautiful</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">beautiful</item>
+                <item type="pos" lang="en">adj</item>
+              </word>
+              <word guid="115b6657-8e41-4d98-ad5b-6209c74084c6">
+                <item type="txt" lang="tun">wen'uhkɛni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">weni</item>
+                    <item type="cf" lang="tun">weni</item>
+                    <item type="gls" lang="en">to find</item>
+                    <item type="msa" lang="en">v.I.tr</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-uhki</item>
+                    <item type="cf" lang="tun">-uhki</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3MS.completive.uhki</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Now while his people were still coming out, one (of them) upon coming out found the world, (to be) beautiful, it is said.</item>
+          </phrase>
+          <phrase guid="94ef9c60-2ac8-45e5-a185-18a189607ec3">
+            <item type="segnum" lang="en">2.2</item>
+            <words>
+              <word guid="6d121c32-ef08-4736-9fb6-7ae38f182e96">
+                <item type="txt" lang="tun">Hinahkuhch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hinahkuhch</item>
+                    <item type="cf" lang="tun">hinahkuhch</item>
+                    <item type="gls" lang="en">now</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">now (conj.)</item>
+              </word>
+              <word guid="64e40950-f6d1-4eb9-8845-f98bc23c8158">
+                <item type="txt" lang="tun">hishtahahki</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hishtahahki</item>
+                    <item type="cf" lang="tun">hishtahahki</item>
+                    <item type="gls" lang="en">still</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">still, yet</item>
+              </word>
+              <word guid="c647f2a7-f948-4b24-86ef-a3c9e068e41b">
+                <item type="txt" lang="tun">tawakaku</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">tawaka</item>
+                    <item type="cf" lang="tun">tawaka</item>
+                    <item type="gls" lang="en">commander</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ku</item>
+                    <item type="cf" lang="tun">-ku</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">3ms</item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">commander</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="dc34e73c-6483-4d64-84c5-29950a258ca7">
+                <item type="txt" lang="tun">yanalepihk'utani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">yanalepi</item>
+                    <item type="cf" lang="tun">yanalepi</item>
+                    <item type="gls" lang="en">to speak</item>
+                    <item type="msa" lang="en">v.II.intr</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hk</item>
+                    <item type="cf" lang="tun">-hk</item>
+                    <item type="gls" lang="en">habitual marker</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-uta</item>
+                    <item type="cf" lang="tun">-uta</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">Class II 3MS</item>
+                    <item type="msa" lang="en">v.II:Subject</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to speak, to speak to</item>
+                <item type="pos" lang="en">v.II.tr</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Now the commander was still speaking, it is said.</item>
+          </phrase>
+          <phrase guid="79eb77c4-afda-42ad-84d2-d83672d76559">
+            <item type="segnum" lang="en">2.3</item>
+            <words>
+              <word guid="6d121c32-ef08-4736-9fb6-7ae38f182e96">
+                <item type="txt" lang="tun">Hinahkuhch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hinahkuhch</item>
+                    <item type="cf" lang="tun">hinahkuhch</item>
+                    <item type="gls" lang="en">now</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">now (conj.)</item>
+              </word>
+              <word guid="b612b281-9add-4dca-b986-1819a04463dc">
+                <item type="txt" lang="tun">sahukɔt</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">sahu</item>
+                    <item type="cf" lang="tun">sahu</item>
+                    <item type="gls" lang="en">other</item>
+                    <item type="msa" lang="en">quant</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ku</item>
+                    <item type="cf" lang="tun">-ku</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">3ms</item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hat</item>
+                    <item type="cf" lang="tun">-hat</item>
+                    <item type="gls" lang="en">on __'s part</item>
+                    <item type="msa" lang="en">Noun</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">other</item>
+                <item type="pos" lang="en">quant</item>
+              </word>
+              <word guid="f8a49394-3185-4b20-8bf9-a96793655b0e">
+                <item type="txt" lang="tun">urutani</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">uru</item>
+                    <item type="cf" lang="tun">uru</item>
+                    <item type="gls" lang="en">to shout</item>
+                    <item type="msa" lang="en">v.II.intr</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-uta</item>
+                    <item type="cf" lang="tun">-uta</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">Class II 3MS</item>
+                    <item type="msa" lang="en">v.II:Subject</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to shout</item>
+                <item type="pos" lang="en">v.II.intr</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Now another on his part, (came out and ) shouted, it is said.</item>
+          </phrase>
+          <phrase guid="acd04c9a-85c3-4837-ad20-c02ddf53d5c9">
+            <item type="segnum" lang="en">2.4</item>
+            <words>
+              <word guid="362b3eff-2432-47e3-bb8d-c80c8d0975a7">
+                <item type="txt" lang="tun">Hinyatihch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hinyatihch</item>
+                    <item type="cf" lang="tun">hinyatihch</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+              </word>
+              <word guid="14aeee0e-bf74-4876-9899-72fc7d5f895e">
+                <item type="txt" lang="tun">tahɔhkahchi</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ta-</item>
+                    <item type="cf" lang="tun">ta-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hɔhka</item>
+                    <item type="cf" lang="tun">hɔhka</item>
+                    <item type="gls" lang="en">hole</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hchi</item>
+                    <item type="cf" lang="tun">-hchi</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">3FS</item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="ca357187-5d5a-437f-92a4-8d1a95450991">
+                <item type="txt" lang="tun">ɛp'arahch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ɛpa</item>
+                    <item type="cf" lang="tun">ɛpa</item>
+                    <item type="gls" lang="en">open, opened</item>
+                    <item type="msa" lang="en">adj</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-ara</item>
+                    <item type="cf" lang="tun">-ara</item>
+                    <item type="hn" lang="tun">3</item>
+                    <item type="gls" lang="en">3FS.durative.ura</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">while</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="c61b8f93-e61d-49e2-a606-de1f0570ce07">
+                <item type="txt" lang="tun">hashuhp'akɛni</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ha-</item>
+                    <item type="cf" lang="tun">ha-</item>
+                    <item type="gls" lang="en">preverb "up, down," also used as a resultative</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">shuhpa</item>
+                    <item type="cf" lang="tun">shuhpa</item>
+                    <item type="gls" lang="en">to suck up (water, as a pump)</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-aki</item>
+                    <item type="cf" lang="tun">-aki</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3FS.completive.uhki</item>
+                    <item type="msa" lang="en">v:Subject</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Then the hole closed up, it is said.</item>
+          </phrase>
+          <phrase guid="e0415e6f-fb88-4f2b-8e49-b39eb2bbc5bd">
+            <item type="segnum" lang="en">2.5</item>
+            <words>
+              <word guid="362b3eff-2432-47e3-bb8d-c80c8d0975a7">
+                <item type="txt" lang="tun">Hinyatihch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hinyatihch</item>
+                    <item type="cf" lang="tun">hinyatihch</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+              </word>
+              <word guid="562e8270-1977-4b94-831f-df87ba552330">
+                <item type="txt" lang="tun">hashuhpatihch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ha</item>
+                    <item type="cf" lang="tun">ha</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">to borrow from</item>
+                    <item type="msa" lang="en">v.II.tr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">shuhpa</item>
+                    <item type="cf" lang="tun">shuhpa</item>
+                    <item type="gls" lang="en">to suck up (water, as a pump)</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ti</item>
+                    <item type="cf" lang="tun">-ti</item>
+                    <item type="gls" lang="en">3FS.completive</item>
+                    <item type="msa" lang="en">v.I:Subject</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">while</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="20974c0e-9844-4a0c-8cbb-27316e29020c">
+                <item type="txt" lang="tun">tonisɛma</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ta-</item>
+                    <item type="cf" lang="tun">ta-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">oni</item>
+                    <item type="cf" lang="tun">oni</item>
+                    <item type="gls" lang="en">human being</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-sɛma</item>
+                    <item type="cf" lang="tun">-sɛma</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">MP GNA</item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="cf8646e6-7da1-42d0-96b1-fd35e7b05b54">
+                <item type="txt" lang="tun">ahkishsɛma</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ahkishsɛma</item>
+                    <item type="cf" lang="tun">ahkishsɛma</item>
+                    <item type="gls" lang="en">remainder</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">remainder</item>
+              </word>
+              <word guid="aaeb2666-fb8c-4321-bdfb-93b6bba7c7ac">
+                <item type="txt" lang="tun">hopitahani</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ho-</item>
+                    <item type="cf" lang="tun">ho-</item>
+                    <item type="gls" lang="en">out, out of</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">pi</item>
+                    <item type="cf" lang="tun">pi</item>
+                    <item type="gls" lang="en">to emerge, get out</item>
+                    <item type="msa" lang="en">v.I.tr</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ta</item>
+                    <item type="cf" lang="tun">-ta</item>
+                    <item type="gls" lang="en">3MP.completive</item>
+                    <item type="msa" lang="en">v.I:Subject</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-aha</item>
+                    <item type="cf" lang="tun">-aha</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">negative postfix</item>
+                    <item type="msa" lang="en">Inflects any category</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to come out</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Now after it closed up, the people who were left could not come out, it is said.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph guid="f28512e7-f108-4f08-8966-bcc398e94160">
+        <phrases>
+          <phrase guid="c8a7ae33-2811-4f49-b5db-97d3323c8fd3">
+            <item type="segnum" lang="en">3.1</item>
+            <words>
+              <word guid="362b3eff-2432-47e3-bb8d-c80c8d0975a7">
+                <item type="txt" lang="tun">Hinyatihch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hinyatihch</item>
+                    <item type="cf" lang="tun">hinyatihch</item>
+                    <item type="gls" lang="en">then</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">then</item>
+              </word>
+              <word guid="c9ea4193-922a-4f49-bace-bad566ee0036">
+                <item type="txt" lang="tun">kata</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">kata</item>
+                    <item type="cf" lang="tun">kata</item>
+                    <item type="gls" lang="en">where</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">where</item>
+              </word>
+              <word guid="c3b9678b-162a-4952-9d9f-0113e8c5a5ad">
+                <item type="txt" lang="tun">tashihkaltiniku</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ta-</item>
+                    <item type="cf" lang="tun">ta-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">shihkaltini</item>
+                    <item type="cf" lang="tun">shihkaltini</item>
+                    <item type="gls" lang="en">Avoyelles</item>
+                    <item type="msa" lang="en">nprop</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ku</item>
+                    <item type="cf" lang="tun">-ku</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">3ms</item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">Avoyelles</item>
+                <item type="pos" lang="en">nprop</item>
+              </word>
+              <word guid="59b6d279-d483-4a6f-99a6-bb7a53c654a7">
+                <item type="txt" lang="tun">hopi'uhkihch</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ho-</item>
+                    <item type="cf" lang="tun">ho-</item>
+                    <item type="gls" lang="en">out, out of</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">pi</item>
+                    <item type="cf" lang="tun">pi</item>
+                    <item type="gls" lang="en">to emerge, get out</item>
+                    <item type="msa" lang="en">v.I.tr</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-uhki</item>
+                    <item type="cf" lang="tun">-uhki</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3MS.completive.uhki</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">while</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+              </word>
+              <word guid="59f8cb5b-e987-48d8-934b-131b0f3b4b71">
+                <item type="txt" lang="tun">hishtahahki</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hishtahahki</item>
+                    <item type="cf" lang="tun">hishtahahki</item>
+                    <item type="gls" lang="en">still</item>
+                    <item type="msa" lang="en">adv</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">still, yet</item>
+              </word>
+              <word guid="fbb8f3f1-2e93-44c4-92d4-1f4f5225b66a">
+                <item type="txt" lang="tun">tayiwohch</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ta-</item>
+                    <item type="cf" lang="tun">ta-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ayiwo</item>
+                    <item type="cf" lang="tun">ayiwo</item>
+                    <item type="gls" lang="en">fire</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">fem. 3rd sing animate noun. </item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fire</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="a4fe1d02-bc1f-401a-8272-fc7cdfe77d9b">
+                <item type="txt" lang="tun">ɛmahch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ɛma</item>
+                    <item type="cf" lang="tun">ɛma</item>
+                    <item type="gls" lang="en">to burn or blaze</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">while</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to burn / to burn it (causative and non-causative)</item>
+                <item type="pos" lang="en">v</item>
+              </word>
+              <word guid="f53c74de-f537-4f0e-b763-906a4e160bb5">
+                <item type="txt" lang="tun">pokatɛni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">po</item>
+                    <item type="cf" lang="tun">po</item>
+                    <item type="gls" lang="en">to look</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-kati</item>
+                    <item type="cf" lang="tun">-kati</item>
+                    <item type="gls" lang="en">3FS.habitual</item>
+                    <item type="msa" lang="en">v.I:Subject</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to look</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Now (at the place) where the Avoyelles emerged, a burning fire is still seen, it is said.</item>
+          </phrase>
+          <phrase guid="e0b8e7eb-7297-4643-b49a-cca51daad5ea">
+            <item type="segnum" lang="en">3.2</item>
+            <words>
+              <word guid="2ed0e610-1efb-49f3-a74a-f5aec4a05b0b">
+                <item type="txt" lang="tun">Hinahkushkan</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hinahkushkan</item>
+                    <item type="cf" lang="tun">hinahkushkan</item>
+                    <item type="gls" lang="en">nevertheless</item>
+                    <item type="msa" lang="en">conn</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">nevertheless</item>
+              </word>
+              <word guid="f17f7c89-8418-408a-abba-a8c91029eb86">
+                <item type="txt" lang="tun">tayihch</item>
+                <morphemes>
+                  <morph type="prefix" guid="d7f713db-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ta-</item>
+                    <item type="cf" lang="tun">ta-</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">the</item>
+                    <item type="msa" lang="en">n:(NounPrefix)</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">ayi</item>
+                    <item type="cf" lang="tun">ayi</item>
+                    <item type="gls" lang="en">fire</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">fem. 3rd sing animate noun. </item>
+                    <item type="msa" lang="en">n:(GNS)</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">fire</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="345a8bf8-d68a-43c5-be37-52cf4814b0a4">
+                <item type="txt" lang="tun">awɛhɛni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">awɛhɛ</item>
+                    <item type="cf" lang="tun">awɛhɛ</item>
+                    <item type="gls" lang="en">it is a mirage</item>
+                    <item type="msa" lang="en">&lt;Not Sure&gt;</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">it is a mirage</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">Nevertheless, the fire is a mirage, it is said.</item>
+          </phrase>
+          <phrase guid="fb425b4e-f16f-4af6-ba0f-53cbd03a82bc">
+            <item type="segnum" lang="en">3.3</item>
+            <words>
+              <word guid="9136f54a-d080-4167-8429-f91a4156c47d">
+                <item type="txt" lang="tun">Kanahku</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">kanahku</item>
+                    <item type="cf" lang="tun">kanahku</item>
+                    <item type="gls" lang="en">anything</item>
+                    <item type="msa" lang="en">n</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">any</item>
+                <item type="pos" lang="en">n</item>
+              </word>
+              <word guid="9022b980-753f-4366-9d83-9073deb1e8d8">
+                <item type="txt" lang="tun">ukihot'ɔntahch</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">uki</item>
+                    <item type="cf" lang="tun">uki</item>
+                    <item type="gls" lang="en">to dwell</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hotu</item>
+                    <item type="cf" lang="tun">hotu</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">to become extinct; die out</item>
+                  </morph>
+                  <morph type="auxiliary verb" guid="3433683d-08a9-4bae-ae53-2a7798f64068">
+                    <item type="txt" lang="tun">-ɔnta</item>
+                    <item type="cf" lang="tun">-ɔnta</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">3MP.perfective.uhki</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-hch</item>
+                    <item type="cf" lang="tun">-hch</item>
+                    <item type="hn" lang="tun">2</item>
+                    <item type="gls" lang="en">while</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to dwell</item>
+                <item type="pos" lang="en">v.I.intr</item>
+              </word>
+              <word guid="a7be0e4e-5375-4c4e-9e0a-1afa7d94de26">
+                <item type="txt" lang="tun">hinah</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">hinah</item>
+                    <item type="cf" lang="tun">hinahku</item>
+                    <item type="gls" lang="en">like this</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">like this</item>
+              </word>
+              <word guid="1628a06d-06fe-41ed-8929-bebe8f9b402a">
+                <item type="txt" lang="tun">pokatɛni</item>
+                <morphemes>
+                  <morph type="stem" guid="d7f713e8-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">po</item>
+                    <item type="cf" lang="tun">po</item>
+                    <item type="gls" lang="en">to look</item>
+                    <item type="msa" lang="en">v.I.intr</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-kati</item>
+                    <item type="cf" lang="tun">-kati</item>
+                    <item type="gls" lang="en">3FS.habitual</item>
+                    <item type="msa" lang="en">v.I:Subject</item>
+                  </morph>
+                  <morph type="suffix" guid="d7f713dd-e8cf-11d3-9764-00c04f186933">
+                    <item type="txt" lang="tun">-ani</item>
+                    <item type="cf" lang="tun">-ani</item>
+                    <item type="hn" lang="tun">1</item>
+                    <item type="gls" lang="en">QUOT, "it is said"</item>
+                    <item type="msa" lang="en">v:Any</item>
+                  </morph>
+                </morphemes>
+                <item type="gls" lang="en">to look</item>
+              </word>
+              <word>
+                <item type="punct" lang="en">.</item>
+              </word>
+            </words>
+            <item type="gls" lang="en">(The place) where they dwelt and became extinct looks like that, it is said.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Times New Roman" />
+      <language lang="tun" font="Charis SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+</document>
