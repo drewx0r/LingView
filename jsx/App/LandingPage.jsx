@@ -5,7 +5,7 @@ import { TranslatableText } from './locale/TranslatableText.jsx'
 const landingPageJSX = {
   [ENGLISH]:
     <div>
-      <p>Welcome! This website is powered by LingView. Click <a href='#/index'>"Index of Texts"</a> to see some example Tunica texts.</p>
+      <p>Welcome! This website is powered by LingView. Click <a href='#/index'>"Index of Texts"</a> to see some example Tunica texts!</p>
 
     </div>,
   [ESPANOL]:
