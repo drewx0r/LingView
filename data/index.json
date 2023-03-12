@@ -547,5 +547,186 @@
         "subdivided": false
       }
     }
+  },
+  "d1be505f-b250-43ba-954e-d01fa9875e5a": {
+    "timed": false,
+    "story ID": "d1be505f-b250-43ba-954e-d01fa9875e5a",
+    "title": {
+      "en": "06. Origin of Corn, First Telling",
+      "tun": "06. Hahka Uhktakal'uta",
+      "_default": "06. Origin of Corn, First Telling"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "tun"
+    ],
+    "date_created": "",
+    "date_uploaded": "3/12/2023",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "origincorn.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "Luhchi Yoroni words": {
+        "subdivided": true
+      },
+      "Luhchi Yoroni morpheme (as in the text)": {
+        "subdivided": true
+      },
+      "Luhchi Yoroni morpheme (citation form)": {
+        "subdivided": true
+      },
+      "English morpheme gloss": {
+        "subdivided": true
+      },
+      "English free": {
+        "subdivided": false
+      }
+    }
+  },
+  "3aff5242-22a9-4c81-837b-810f64c0b9e9": {
+    "timed": false,
+    "story ID": "3aff5242-22a9-4c81-837b-810f64c0b9e9",
+    "title": {
+      "en": "06. Origin of Corn, Second Telling",
+      "_default": "06. Origin of Corn, Second Telling"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "tun"
+    ],
+    "date_created": "",
+    "date_uploaded": "3/12/2023",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "origincorn.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "Luhchi Yoroni words": {
+        "subdivided": true
+      },
+      "Luhchi Yoroni morpheme (as in the text)": {
+        "subdivided": true
+      },
+      "Luhchi Yoroni morpheme (citation form)": {
+        "subdivided": true
+      },
+      "English morpheme gloss": {
+        "subdivided": true
+      },
+      "English free": {
+        "subdivided": false
+      }
+    }
+  },
+  "6cbca047-bfa6-436a-a270-d795cb2f5863": {
+    "timed": false,
+    "story ID": "6cbca047-bfa6-436a-a270-d795cb2f5863",
+    "title": {
+      "en": "06. Origin of Corn, Third Telling",
+      "_default": "06. Origin of Corn, Third Telling"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "tun"
+    ],
+    "date_created": "",
+    "date_uploaded": "3/12/2023",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "origincorn.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "Luhchi Yoroni words": {
+        "subdivided": true
+      },
+      "Luhchi Yoroni morpheme (as in the text)": {
+        "subdivided": true
+      },
+      "Luhchi Yoroni morpheme (citation form)": {
+        "subdivided": true
+      },
+      "English morpheme gloss": {
+        "subdivided": true
+      },
+      "English free": {
+        "subdivided": false
+      }
+    }
+  },
+  "4f565bbd-b10f-410e-b5cf-24da21af78c8": {
+    "timed": false,
+    "story ID": "4f565bbd-b10f-410e-b5cf-24da21af78c8",
+    "title": {
+      "en": "04. The Thunder Myth, Second Telling",
+      "_default": "04. The Thunder Myth, Second Telling"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [
+      "en",
+      "tun"
+    ],
+    "date_created": "",
+    "date_uploaded": "3/12/2023",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "thunder2.flextext",
+    "source_filetype": "FLEx",
+    "tier IDs": {
+      "Luhchi Yoroni words": {
+        "subdivided": true
+      },
+      "Luhchi Yoroni morpheme (as in the text)": {
+        "subdivided": true
+      },
+      "Luhchi Yoroni morpheme (citation form)": {
+        "subdivided": true
+      },
+      "English morpheme gloss": {
+        "subdivided": true
+      },
+      "English free": {
+        "subdivided": false
+      }
+    }
   }
 }
