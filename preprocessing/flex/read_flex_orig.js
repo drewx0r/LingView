@@ -64,14 +64,10 @@ function getSentenceTextItemIfExists(sentence) {
   // When exported from ELAN, the sentence's text is formatted like a free gloss, but with type="txt".
   // Once someone starts glossing the sentence, that item disappears, replaced by individual words,
   // in which case we return null. 
-  try {
   for (const gloss of sentence.item) {
     if (gloss.$.type === "txt") {
       return gloss;
     }
-  }
-  } catch (e) {
-  
   }
   return null;
 }
@@ -79,7 +75,6 @@ function getSentenceTextItemIfExists(sentence) {
 function getSentenceFreeGlosses(sentence) {
   let freeGlosses = [];
   const rawFreeGlosses = sentence.item;
-  try {
   for (const gloss of rawFreeGlosses) {
     if (gloss.$.type === "gls") {
       const glossValue = gloss._;
@@ -87,9 +82,6 @@ function getSentenceFreeGlosses(sentence) {
         freeGlosses.push(gloss);
       } // else there's not actually a gloss here, just the metadata/placeholder for one
     } // else it might be type "segnum" (sentence number) or similar; we'll ignore it
-  }
-  } catch (e) {
-  
   }
   return freeGlosses;
 }
